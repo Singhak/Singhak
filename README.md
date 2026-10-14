@@ -78,12 +78,12 @@ I am a full-stack developer, product builder, and startup-minded technologist fo
 
 | Project | Category | Stack | Live Demo | Status |
 | --- | --- | --- | --- | --- |
-| coloro.in | Web Coloring Book | React, JavaScript, UI Design | https://coloro.in/ | Live |
-| iMonbench | Interview Prepration tool | React, Frontend, UX | https://imonbench.in/ | Live |
-| SysGame | Interactive Way to Learn System Desgin | React, Frontend, UI/UX | https://sysgame.vercel.app/ | Live |
-| ClipDesk | 16:9 to 9:16 | React, Frontend, UI/UX | https://clipdesk.infynetic.com/ | Live |
-| SheetDxf | Quote Engine for Laser CNC | React, Frontend, UI/UX | https://sheetdxf.com/ | Live |
-| LabelCutter | Clip Shiping labels | React, Frontend, UI/UX | https://labelcutter.in/ | Live |
+| coloro.in | Web Coloring Book | https://coloro.in/ | Live |
+| iMonbench | Interview Prepration tool | https://imonbench.in/ | Live |
+| SysGame | Interactive Way to Learn System Desgin | https://sysgame.vercel.app/ | Live |
+| ClipDesk | 16:9 to 9:16 | https://clipdesk.infynetic.com/ | Live |
+| SheetDxf | Quote Engine for Laser CNC | https://sheetdxf.com/ | Live |
+| LabelCutter | Clip Shiping labels | https://labelcutter.in/ | Live |
 
 ### Featured Highlights
 - ✅ Built and shipped digital products with strong product-led UX
