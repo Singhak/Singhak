@@ -77,7 +77,7 @@ I am a full-stack developer, product builder, and startup-minded technologist fo
 ## 🚀 Real Project Showcase
 
 | Project | Category | Live Demo | Status |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |
 | coloro.in | Web Coloring Book | https://coloro.in/ | Live |
 | iMonbench | Interview Prepration tool | https://imonbench.in/ | Live |
 | SysGame | Interactive Way to Learn System Desgin | https://sysgame.vercel.app/ | Live |
