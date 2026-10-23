@@ -2,7 +2,7 @@
 
 # Singh 👋
 
-### Full Stack Developer • Product Builder • Startup Founder
+### Full Stack Developer • Product Builder • Founder Mindset
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=520&color=4F46E5&lines=Building+digital+products;Shipping+full-stack+solutions;Product-first+engineering;Founder+mindset" alt="Typing SVG" />
