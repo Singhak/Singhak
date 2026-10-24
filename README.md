@@ -127,7 +127,7 @@ If you are building something meaningful, I’d love to connect.
 - 📧 Email: [anilsingh.singh09@gmail.com](mailto:anilsingh.singh09@gmail.com)
 - 💼 LinkedIn: [Anil Singh](https://www.linkedin.com/in/anilsingh09)
 - 🔗 GitHub: [@Singhak](https://github.com/Singhak)
-- 🌐 Portfolio: [coloro.in](https://coloro.in)
+- 🌐 Portfolio: [Myself](https://myself.singhak.in/)
 
 ---
 
