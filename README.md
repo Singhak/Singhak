@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Email-anilsingh.singh09@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://coloro.in">
-    <img src="https://img.shields.io/badge/Portfolio-coloro.in-6366F1?style=for-the-badge" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-myself.singhak.in-6366F1?style=for-the-badge" alt="Portfolio" />
   </a>
 </p>
 
